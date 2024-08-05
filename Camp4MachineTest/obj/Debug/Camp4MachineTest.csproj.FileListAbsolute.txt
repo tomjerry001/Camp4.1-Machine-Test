@@ -1,0 +1,7 @@
+D:\Assigment1\ConsoleAppInheritanceDemo\Camp4MachineTest\bin\Debug\Camp4MachineTest.exe.config
+D:\Assigment1\ConsoleAppInheritanceDemo\Camp4MachineTest\bin\Debug\Camp4MachineTest.exe
+D:\Assigment1\ConsoleAppInheritanceDemo\Camp4MachineTest\bin\Debug\Camp4MachineTest.pdb
+D:\Assigment1\ConsoleAppInheritanceDemo\Camp4MachineTest\obj\Debug\Camp4MachineTest.csproj.AssemblyReference.cache
+D:\Assigment1\ConsoleAppInheritanceDemo\Camp4MachineTest\obj\Debug\Camp4MachineTest.csproj.CoreCompileInputs.cache
+D:\Assigment1\ConsoleAppInheritanceDemo\Camp4MachineTest\obj\Debug\Camp4MachineTest.exe
+D:\Assigment1\ConsoleAppInheritanceDemo\Camp4MachineTest\obj\Debug\Camp4MachineTest.pdb
